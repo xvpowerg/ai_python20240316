@@ -2,7 +2,7 @@
 
 ChatGPT
 
-pip  install openai
+pip install --upgrade openai
 
 爬蟲
 
